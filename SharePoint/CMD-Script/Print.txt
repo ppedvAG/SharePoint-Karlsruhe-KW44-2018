@@ -1,0 +1,14 @@
+Webpart > Medien & Inhalt > Inhalts-Editor
+Text formatieren > Markup > Quelle bearbeiten
+
+<!-- Beispiel: Textbutton -->
+<code>
+<input type="button" value="Drucken" onclick="window.print();return false;" />
+</code> 
+
+<!-- Beispiel: ImageButton -->
+<code>
+<input type="image" src="/Pfad/zu/ihrem/druckicon" alt="Drucken" onclick="window.print();return
+false;" />
+</code>
+ 

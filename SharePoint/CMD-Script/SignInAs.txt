@@ -1,0 +1,12 @@
+C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\16\TEMPLATE\CONTROLTEMPLATES\Welcome.ascx
+
+
+
+
+<SharePoint:MenuItemTemplate runat="server" ID="ID_LoginAsDifferentUser"
+	Text="<%$Resources:wss,personalactions_loginasdifferentuser%>"
+ 	Description="<%$Resources:wss,personalactions_loginasdifferentuserdescription%>"
+ 	MenuGroupId="100"
+ 	Sequence="100"
+ 	UseShortId="true"
+ 	/>
